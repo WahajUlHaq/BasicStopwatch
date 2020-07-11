@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+
+background-color: #1C75BC;
+    font-family: 'Roboto', sans-serif;
+
+}
+#Mainheading{
+    color:white;
+    margin-top: 200px;
+}
+.tim h1{
+
+color: #1C75BC;
+background-color: white !important;
+display: inline-block ;
+width: 120px;
+height: 50px;
+line-height: 1.5;
+margin: 4px;
+
+}
+
+
+.but button{
+
+background-color: white;
+width: 150px;
+height: 50px;
+border: none;
+margin: 4px;
+border-radius: 1em;
+margin-top: 20px;
+}
+
+
+#aa{
+color: white !important;
+
+
+}
